@@ -37,8 +37,8 @@
     */
 date_default_timezone_set('UTC');
 $config = array(
-    'HUF_MERCHANT' => "P040301",                                               //merchant account ID (HUF)
-    'HUF_SECRET_KEY' => "2h72Z|i2%6!L9_0d9E8!",                                             //secret key for account ID (HUF)
+    'HUF_MERCHANT' => "xxx",                                               //merchant account ID (HUF)
+    'HUF_SECRET_KEY' => "2hx",                                             //secret key for account ID (HUF)
     'EUR_MERCHANT' => "",                                               //merchant account ID (EUR)
     'EUR_SECRET_KEY' => "",                                             //secret key for account ID (EUR)
     'USD_MERCHANT' => "",                                               //merchant account ID (USD)
